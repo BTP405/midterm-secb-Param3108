@@ -26,3 +26,14 @@ class Employee:
             salary (float): The salary of the employee.
         """
         pass
+self.name = name
+        self.emp_id = emp_id
+        self.role = role
+        self.salary = salary
+
+
+employee1 = Employee("Param katrodia", "1234", "Cyber Security Specialist", 75000)
+print(employee1.name)  
+print(employee1.emp_id)
+print(employee1.role)  
+print(employee1.salary)  
