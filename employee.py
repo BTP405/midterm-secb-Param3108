@@ -32,7 +32,7 @@ self.name = name
         self.salary = salary
 
 
-employee1 = Employee("Param katrodia", "1234", "Cyber Security Specialist", 75000.0)
+employee1 = Employee("Param katrodia", "1234", "Cyber Security Specialist", 75000)
 print(employee1.name)  
 print(employee1.emp_id)
 print(employee1.role)  
